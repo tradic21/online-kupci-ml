@@ -1,6 +1,6 @@
 # Online kupci - ML analiza (Online Shoppers Intention)
 
-Cilj projekta je izraditi modele koji pomažu procijeniti namjeru kupnje i vrijednost posjete, kako bi se bolje razumjelo ponašanje korisnika e-trgovine.
+Cilj projekta je izraditi modele koji pomažu procijeniti namjeru kupnje i vrijednost posjete kako bi se bolje razumjelo ponašanje korisnika e-trgovine.
 
 Projekt analizira ponašanje posjetitelja e-trgovine i radi prediktivne modele:
 - **Klasifikacija:** predikcija kupnje (*Revenue*)
