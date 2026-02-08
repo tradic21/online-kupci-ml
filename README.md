@@ -31,7 +31,7 @@ Projekt analizira ponašanje posjetitelja e-trgovine i radi prediktivne modele:
 
 ## Podaci (dataset)
 Korišten je **Online Shoppers Purchasing Intention Dataset** (UCI Machine Learning Repository), licenca **CC BY 4.0**.
-DOI: 10.24432/C5F88Q
+DOI: https://doi.org/10.24432/C5F88Q
 
 ## Kako pokrenuti
 1. Otvoriti `notebook/projekt_faza1.ipynb` ili `notebook/projekt_faza_2.ipynb` u Jupyteru/VS Code-u.
